@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Chris Ekstedt",
+  "description": "A demonstration of node and npm functions.",
   "dependencies": {
     "express": "^4.14.0"
   },
