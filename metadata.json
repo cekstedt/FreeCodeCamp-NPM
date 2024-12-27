@@ -1,0 +1,13 @@
+{
+  "name": "Managing Packages with NPM",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-NPM",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
+  "hosted": "https://garnet-olive-musician.glitch.me",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["js", "node", "express"],
+  "status": "complete",
+  "priority": "done"
+}
